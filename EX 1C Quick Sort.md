@@ -6,7 +6,7 @@
 
 To write a python program to implement quick sort using tha last element as pivot on the list of float values.
 
-## Algorithm
+## Algorithm :
 1.Input the number of elements n, then read n floating-point numbers into a list called arr.
 
 2.Start QuickSort by calling quickSort(arr, 0, n-1) to sort the array from the first to the last index.
@@ -40,7 +40,7 @@ Select the last element in the subarray as the pivot.
 
 11.Print each element of the now sorted array.
 
-## Program:
+## Program :
 
 ### Developed by: ABRIN NISHA A
 ### Register Number: 212222230005
@@ -82,12 +82,12 @@ for i in arr:
 
 ```
 
-## Output:
+## Output :
 
 ![Screenshot 2025-04-29 183323](https://github.com/user-attachments/assets/aae6dbfc-3cec-4e57-8cc5-3f7e8cdbaec7)
 
 
 
-## Result:
+## Result :
 
 The program successfully sorts the input array using the QuickSort algorithm, arranging the elements in ascending order.
