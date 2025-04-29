@@ -66,7 +66,7 @@ search(Tuple,x)
 
 ## Output :
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b81bac1d-e347-46a6-8fe8-ffb3e0491d2f)
 
 
 
