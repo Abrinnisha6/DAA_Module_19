@@ -1,6 +1,6 @@
 # EX 1C Quick Sort
 
-## DATE:
+## DATE:29/04/2025
 
 ## AIM:
 
